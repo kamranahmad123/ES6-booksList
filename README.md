@@ -62,7 +62,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-#### <a href="">Live Demo Link</a>
+#### <a href="https://kamranahmad123.github.io/ES6-booksList/?">Live Demo Link</a>
 
 
 
@@ -81,7 +81,7 @@ Clone this repository to your desired folder:
 
 
 ```sh
-  git clone https://github.com/kamranahmad123/Awesomebooks-Es6-modules/tree/modules
+  git clone https://github.com/kamranahmad123/ES6-booksList
 ```
 
 
@@ -91,7 +91,7 @@ Clone this repository to your desired folder:
 You can deploy this project using 
 > [Github Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
-> [github html preview](https://kamranahmad123.github.io/Awesomebooks-Es6-modules/) and paste index adress into it to view.
+> [github html preview](https://github.com/kamranahmad123/ES6-booksList) and paste index adress into it to view.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -152,7 +152,7 @@ If you like this project give me a star.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/kamranahmad123/Awesomebooks-Es6-modules/blob/modules/LICENSE) licensed.
+This project is [MIT](https://github.com/kamranahmad123/ES6-booksList/blob/modules/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
