@@ -1,0 +1,115 @@
+
+.text-area {
+  margin-left: 25%;
+  margin-top: 115px;
+  width: 50%;
+}
+
+.book {
+  margin-bottom: 10px;
+}
+
+.Author {
+  margin-top: -10px;
+}
+
+.submit {
+  margin-left: 61%;
+  margin-top: 10px;
+}
+
+.text {
+  margin-top: -14px;
+  color: blue;
+}
+
+.navigator ul {
+  list-style: none;
+}
+
+.navigator {
+  display: flex;
+  width: 99%;
+  justify-content: space-between;
+  border: solid;
+  margin-left: 5px;
+}
+
+#nav-button {
+  display: flex;
+  justify-content: space-between;
+  width: 40%;
+  padding-right: 10px;
+}
+
+.nav-items {
+  border-right: 3px solid black;
+  padding-right: 3px;
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+}
+
+.Books-Section {
+  border: solid 3px;
+  width: 99%;
+  margin-top: 10px;
+  margin-left: 5px;
+}
+
+.dataInput {
+  margin-top: -220px;
+}
+
+.first {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+
+.title-author {
+  margin-left: 20px;
+}
+
+.first-header {
+  padding-left: 42%;
+  margin-top: 70px;
+}
+
+.header {
+  margin-left: 20px;
+}
+
+.hidden {
+  display: none;
+}
+
+#message {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 60px;
+}
+
+.contact-information {
+  margin-top: 160px;
+  margin-left: 25%;
+}
+
+#footer {
+  border: solid 3px black;
+  width: 99%;
+  height: 40px;
+  margin-top: 360px;
+  margin-left: 5px;
+}
+
+.searchBar {
+  margin-top: 166px;
+}
+
+#Date {
+  margin-left: 81%;
+}
